@@ -55,12 +55,48 @@
 
   <!-- Chinese Tools -->
   <url>
+    <loc>https://omniboxes.net/base64-encode</loc>
+    <lastmod>2025-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://omniboxes.net/cn/base64-encode" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://omniboxes.net/base64-encode" />
+  </url>
+
+  <url>
+    <loc>https://omniboxes.net/base64-decode</loc>
+    <lastmod>2025-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://omniboxes.net/cn/base64-decode" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://omniboxes.net/base64-decode" />
+  </url>
+
+  <url>
     <loc>https://omniboxes.net/cn/random-address-generator </loc>
     <lastmod>2025-07-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://omniboxes.net/cn/random-address-generator " />
     <xhtml:link rel="alternate" hreflang="en" href="https://omniboxes.net/random-address-generator " />
+  </url>
+
+  <url>
+    <loc>https://omniboxes.net/cn/base64-encode</loc>
+    <lastmod>2025-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://omniboxes.net/cn/base64-encode" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://omniboxes.net/base64-encode" />
+  </url>
+
+  <url>
+    <loc>https://omniboxes.net/cn/base64-decode</loc>
+    <lastmod>2025-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://omniboxes.net/cn/base64-decode" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://omniboxes.net/base64-decode" />
   </url>
 
 </urlset>
