@@ -71,6 +71,20 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://omniboxes.net/base64-decode" />
   </url>
 
+  <url>
+    <loc>https://omniboxes.net/html-viewer</loc>
+    <lastmod>2025-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://omniboxes.net/xml-formatter</loc>
+    <lastmod>2025-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Chinese Tools -->
   <url>
     <loc>https://omniboxes.net/cn/random-address-generator</loc>
