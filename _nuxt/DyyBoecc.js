@@ -1,0 +1,1 @@
+import{c as o,a as t,b as s,j as a,o as c}from"./fX5JRxhn.js";const n={class:"container mx-auto px-4 py-8"},r={class:"prose lg:prose-xl"},i={__name:"[slug]",setup(_){return(p,l)=>{const e=a("ContentDoc");return c(),o("main",n,[t("article",r,[s(e)])])}}};export{i as default};
